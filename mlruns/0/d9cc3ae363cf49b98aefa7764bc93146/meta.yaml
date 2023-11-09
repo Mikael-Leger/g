@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d9cc3ae363cf49b98aefa7764bc93146/artifacts
+end_time: 1699293037443
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9cc3ae363cf49b98aefa7764bc93146
+run_name: peaceful-bee-456
+run_uuid: d9cc3ae363cf49b98aefa7764bc93146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699293037410
+status: 3
+tags: []
+user_id: theop

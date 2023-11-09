@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0b158537fd244c04bc8659f9161868a8/artifacts
+end_time: 1699299878169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b158537fd244c04bc8659f9161868a8
+run_name: silent-fish-524
+run_uuid: 0b158537fd244c04bc8659f9161868a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699299878122
+status: 3
+tags: []
+user_id: theop

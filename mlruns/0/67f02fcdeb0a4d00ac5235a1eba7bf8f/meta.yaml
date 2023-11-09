@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/67f02fcdeb0a4d00ac5235a1eba7bf8f/artifacts
+end_time: 1699289791997
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67f02fcdeb0a4d00ac5235a1eba7bf8f
+run_name: skittish-snail-807
+run_uuid: 67f02fcdeb0a4d00ac5235a1eba7bf8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699289791966
+status: 3
+tags: []
+user_id: theop

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f7736adea5ff4143bd87359e930b6f0b/artifacts
+end_time: 1699292254262
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7736adea5ff4143bd87359e930b6f0b
+run_name: victorious-sloth-544
+run_uuid: f7736adea5ff4143bd87359e930b6f0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699292254229
+status: 3
+tags: []
+user_id: theop

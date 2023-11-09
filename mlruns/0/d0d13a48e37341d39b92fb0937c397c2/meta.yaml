@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d0d13a48e37341d39b92fb0937c397c2/artifacts
+end_time: 1699293104683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d0d13a48e37341d39b92fb0937c397c2
+run_name: marvelous-fowl-971
+run_uuid: d0d13a48e37341d39b92fb0937c397c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699293104651
+status: 3
+tags: []
+user_id: theop

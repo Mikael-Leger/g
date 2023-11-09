@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8e8076884fa74fcaa02fdba78ff2d9ff/artifacts
+end_time: 1699288755812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e8076884fa74fcaa02fdba78ff2d9ff
+run_name: traveling-tern-804
+run_uuid: 8e8076884fa74fcaa02fdba78ff2d9ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699288755773
+status: 3
+tags: []
+user_id: theop

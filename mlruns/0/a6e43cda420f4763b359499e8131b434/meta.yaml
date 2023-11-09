@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a6e43cda420f4763b359499e8131b434/artifacts
+end_time: 1699291900815
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6e43cda420f4763b359499e8131b434
+run_name: unequaled-hound-52
+run_uuid: a6e43cda420f4763b359499e8131b434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699291900784
+status: 3
+tags: []
+user_id: theop

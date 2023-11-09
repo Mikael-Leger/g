@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/theop/OneDrive/Bureau/graded_project/src/mlruns/0/fea0927ea2e54f18afa97fbe7d8d6653/artifacts
+end_time: 1699293845338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fea0927ea2e54f18afa97fbe7d8d6653
+run_name: persistent-hare-949
+run_uuid: fea0927ea2e54f18afa97fbe7d8d6653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699293845309
+status: 3
+tags: []
+user_id: theop

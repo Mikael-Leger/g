@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/eca8df297ddc454f89671402181c2116/artifacts
+end_time: 1699289222436
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eca8df297ddc454f89671402181c2116
+run_name: mercurial-whale-725
+run_uuid: eca8df297ddc454f89671402181c2116
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699289222403
+status: 3
+tags: []
+user_id: theop

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/theop/OneDrive/Bureau/graded_project/src/mlruns/0/3b57b84a906a40fcbb4c5d87f7f2f2af/artifacts
+end_time: 1699293524090
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b57b84a906a40fcbb4c5d87f7f2f2af
+run_name: classy-asp-613
+run_uuid: 3b57b84a906a40fcbb4c5d87f7f2f2af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699293524055
+status: 3
+tags: []
+user_id: theop

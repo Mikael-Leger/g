@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/03bafbe17a964f77814ea3f063a99304/artifacts
+end_time: 1699291182808
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03bafbe17a964f77814ea3f063a99304
+run_name: dazzling-mare-125
+run_uuid: 03bafbe17a964f77814ea3f063a99304
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699291182774
+status: 3
+tags: []
+user_id: theop

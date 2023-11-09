@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/db743088634b4488a0aa929092d2777e/artifacts
+end_time: 1699292790649
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db743088634b4488a0aa929092d2777e
+run_name: powerful-duck-201
+run_uuid: db743088634b4488a0aa929092d2777e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699292790613
+status: 3
+tags: []
+user_id: theop

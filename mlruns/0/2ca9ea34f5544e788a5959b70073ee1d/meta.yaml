@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2ca9ea34f5544e788a5959b70073ee1d/artifacts
+end_time: 1699292982757
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ca9ea34f5544e788a5959b70073ee1d
+run_name: traveling-cub-442
+run_uuid: 2ca9ea34f5544e788a5959b70073ee1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699292982725
+status: 3
+tags: []
+user_id: theop

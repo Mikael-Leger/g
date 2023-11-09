@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/96f81c980810456a87a2eaaea7b9e1a3/artifacts
+end_time: 1699292635697
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96f81c980810456a87a2eaaea7b9e1a3
+run_name: classy-snipe-186
+run_uuid: 96f81c980810456a87a2eaaea7b9e1a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699292635662
+status: 3
+tags: []
+user_id: theop

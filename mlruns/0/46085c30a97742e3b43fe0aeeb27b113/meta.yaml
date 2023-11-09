@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/46085c30a97742e3b43fe0aeeb27b113/artifacts
+end_time: 1699290106130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46085c30a97742e3b43fe0aeeb27b113
+run_name: charming-yak-490
+run_uuid: 46085c30a97742e3b43fe0aeeb27b113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699290106098
+status: 3
+tags: []
+user_id: theop

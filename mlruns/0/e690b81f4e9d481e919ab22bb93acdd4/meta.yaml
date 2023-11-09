@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e690b81f4e9d481e919ab22bb93acdd4/artifacts
+end_time: 1699289538032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e690b81f4e9d481e919ab22bb93acdd4
+run_name: exultant-owl-789
+run_uuid: e690b81f4e9d481e919ab22bb93acdd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699289537996
+status: 3
+tags: []
+user_id: theop

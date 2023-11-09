@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/113cba1785744230bfef20c2ce013541/artifacts
+end_time: 1699292844835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 113cba1785744230bfef20c2ce013541
+run_name: abundant-gnat-280
+run_uuid: 113cba1785744230bfef20c2ce013541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699292844802
+status: 3
+tags: []
+user_id: theop

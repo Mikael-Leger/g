@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/df66563a3cef46088f581a24f16bf488/artifacts
+end_time: 1699289746091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df66563a3cef46088f581a24f16bf488
+run_name: monumental-stork-420
+run_uuid: df66563a3cef46088f581a24f16bf488
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699289746059
+status: 3
+tags: []
+user_id: theop

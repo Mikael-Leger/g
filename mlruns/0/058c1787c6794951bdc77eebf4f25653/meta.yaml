@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/058c1787c6794951bdc77eebf4f25653/artifacts
+end_time: 1699292372270
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 058c1787c6794951bdc77eebf4f25653
+run_name: treasured-shrimp-86
+run_uuid: 058c1787c6794951bdc77eebf4f25653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699292372237
+status: 3
+tags: []
+user_id: theop

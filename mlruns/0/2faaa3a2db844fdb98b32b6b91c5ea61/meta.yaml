@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2faaa3a2db844fdb98b32b6b91c5ea61/artifacts
+end_time: 1699292427081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2faaa3a2db844fdb98b32b6b91c5ea61
+run_name: chill-owl-67
+run_uuid: 2faaa3a2db844fdb98b32b6b91c5ea61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699292427048
+status: 3
+tags: []
+user_id: theop

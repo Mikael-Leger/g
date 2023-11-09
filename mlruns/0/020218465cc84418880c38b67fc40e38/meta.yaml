@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/020218465cc84418880c38b67fc40e38/artifacts
+end_time: 1699291230480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 020218465cc84418880c38b67fc40e38
+run_name: intrigued-moth-365
+run_uuid: 020218465cc84418880c38b67fc40e38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699291230445
+status: 3
+tags: []
+user_id: theop

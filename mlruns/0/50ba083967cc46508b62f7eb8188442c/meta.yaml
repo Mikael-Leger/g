@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/50ba083967cc46508b62f7eb8188442c/artifacts
+end_time: 1699291811932
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50ba083967cc46508b62f7eb8188442c
+run_name: adorable-doe-394
+run_uuid: 50ba083967cc46508b62f7eb8188442c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699291811899
+status: 3
+tags: []
+user_id: theop

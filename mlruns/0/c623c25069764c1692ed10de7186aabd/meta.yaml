@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c623c25069764c1692ed10de7186aabd/artifacts
+end_time: 1699290804721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c623c25069764c1692ed10de7186aabd
+run_name: dapper-cub-481
+run_uuid: c623c25069764c1692ed10de7186aabd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699290804687
+status: 3
+tags: []
+user_id: theop

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d148a8d6b7c042458eeb0d5d126936a3/artifacts
+end_time: 1699292461126
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d148a8d6b7c042458eeb0d5d126936a3
+run_name: dazzling-dolphin-3
+run_uuid: d148a8d6b7c042458eeb0d5d126936a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699292461093
+status: 3
+tags: []
+user_id: theop
